@@ -1,6 +1,6 @@
 site: pkwon
 title: pkwon
-greetings: 한국어 테스트 👋
+greetings: 한국어 블로그 👋
 description: >-
   블로그
 lang: ko
@@ -10,8 +10,8 @@ data-theme: dark # default theme "dark" | "light"
 discus-identifier: hyungkwonko # replace with your disqus shortname
 
 author:
-  name: 고형권
-  bio: 업데이트 예정
+  name: pkwon
+  bio: pkwon
   userpicture: 
   username: # general username
   github: hyungkwonko # github username
