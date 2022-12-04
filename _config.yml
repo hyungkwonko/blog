@@ -2,9 +2,9 @@ site: pkwon
 title: pkwon
 greetings: Hi 👋
 description: >-
-업데이트 예정
+to be updated
 lang: ko
-timezone:  Europe/Rome
+timezone: Asia/Seoul
 repo: https://github.com/DavideBri/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: hyungkwonko # replace with your disqus shortname
