@@ -1,11 +1,11 @@
 site: pkwon
 title: pkwon
-greetings: Hi 👋
+greetings: 한국어 테스트 👋
 description: >-
   업데이트 예정
 lang: ko
 timezone: Asia/Seoul
-repo: https://github.com/DavideBri/Gesko # site repo [optional]
+repo: https://github.com/hyungkwonko/blog # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: hyungkwonko # replace with your disqus shortname
 
