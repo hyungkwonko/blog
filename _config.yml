@@ -2,16 +2,16 @@ site: pkwon
 title: pkwon
 greetings: Hi 👋
 description: >-
-to be updated
-lang: ko
-timezone: Asia/Seoul
+  just a minimalist, personal blog
+lang: en-US
+timezone:  Europe/Rome
 repo: https://github.com/DavideBri/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: hyungkwonko # replace with your disqus shortname
 
 author:
-  name: Hyung-Kwon Ko
-  bio: hyungkwonko
+  name: 고형권
+  bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
   github: hyungkwonko # github username
